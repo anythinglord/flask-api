@@ -1,4 +1,3 @@
-
 ## Task Management API
 
 This project is a simple REST API built with Flask for managing a list of tasks. It provides CRUD (Create, Read, Update, Delete) operations on tasks, allowing users to organize and prioritize their to-do items.
